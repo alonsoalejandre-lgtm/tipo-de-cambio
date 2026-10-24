@@ -1,0 +1,34 @@
+name: Captura tipo de cambio
+
+on:
+  schedule:
+    - cron: "23 15 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  capturar:
+    runs-on: ubuntu-latest
+    env:
+      TZ: America/Mexico_City
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Instalar navegador
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
+      - name: Tomar capturas
+        run: python capturar.py capturas
+      - name: Guardar en el repositorio
+        run: |
+          git config user.name "capturas-bot"
+          git config user.email "capturas-bot@users.noreply.github.com"
+          git add -A capturas
+          git commit -m "Tipo de cambio $(date +%F)" || echo "Sin cambios"
+          git pull --rebase
+          git push
