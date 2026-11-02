@@ -13,4 +13,3 @@ url final: https://www.banregio.com/divisas.php
 - marco https://service.force.com/embeddedservice/5.0/esw.html?parent=https://www.banregio.com/divisas.php | 0 letras | 
 - marco about:blank | 0 letras | 
 - marco https://www.google.com/recaptcha/api2/bframe?hl=es-419&v=bSuJ2xBC8cHT21-c68JXN31m&k=6LedRgkUAAAAAB_x4gjgLGx5CUvkzNUDaoK5 | 0 letras | 
-- marco about:blank | 0 letras | 
