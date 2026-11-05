@@ -1,7 +1,7 @@
 == BBVA ==
 url final: https://www.bbva.mx/personas/informacion-financiera-al-dia.html
-- marco https://www.bbva.mx/personas/informacion-financiera-al-dia.html | 7139 letras | Dólares Tarjeta de Viajes Tarjeta Básica Tarjeta Nómina Básica Cuenta Express Envíos de dinero Programas de apoyo social Libretón 2.0 Libretón BBVA Libretón Dólares Frontera Maestra Dólares Frontera M
-- marco https://divisas.terraempresas.com.mx/divisasbbva/default.aspx | 651 letras | Dólar (USA) Compra $17.78 Venta $18.91 Euro Compra $19.18 Venta $21.48 Metales Centenario Compra $87,000.00 Venta $105,050.00 Histórico Onza Libertad de Oro Compra $71,600.00 Venta $81,500.00 Históric
+- marco https://www.bbva.mx/personas/informacion-financiera-al-dia.html | 7183 letras | Dólares Tarjeta de Viajes Tarjeta Básica Tarjeta Nómina Básica Cuenta Express Envíos de dinero Programas de apoyo social Libretón 2.0 Libretón BBVA Libretón Dólares Frontera Maestra Dólares Frontera M
+- marco https://divisas.terraempresas.com.mx/divisasbbva/default.aspx | 651 letras | Dólar (USA) Compra $17.85 Venta $18.98 Euro Compra $19.24 Venta $21.55 Metales Centenario Compra $87,500.00 Venta $105,600.00 Histórico Onza Libertad de Oro Compra $72,700.00 Venta $82,700.00 Históric
 - marco https://bbvabancomer.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.bbva.mx | 0 letras | 
 
 == Banregio ==
@@ -10,6 +10,6 @@ url final: https://www.banregio.com/divisas.php
 - marco https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LedRgkUAAAAAB_x4gjgLGx5CUvkzNUDaoK56qEM&co=aHR0cHM6Ly93d3cuYmFucmVn | 68 letras | Se requiere la verificación de reCAPTCHA.. No soy un robot reCAPTCHA
 - marco about:blank | 0 letras | 
 - marco about:blank | 0 letras | 
-- marco https://service.force.com/embeddedservice/5.0/esw.html?parent=https://www.banregio.com/divisas.php | 0 letras | 
 - marco about:blank | 0 letras | 
-- marco https://www.google.com/recaptcha/api2/bframe?hl=es-419&v=bSuJ2xBC8cHT21-c68JXN31m&k=6LedRgkUAAAAAB_x4gjgLGx5CUvkzNUDaoK5 | 0 letras | 
+- marco https://www.google.com/recaptcha/api2/bframe?hl=es-419&v=bSuJ2xBC8cFy7pM4Z3Hu9boH&k=6LedRgkUAAAAAB_x4gjgLGx5CUvkzNUDaoK5 | 0 letras | 
+- marco https://service.force.com/embeddedservice/5.0/esw.html?parent=https://www.banregio.com/divisas.php | 0 letras | 
