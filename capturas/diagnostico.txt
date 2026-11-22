@@ -7,10 +7,9 @@ url final: https://www.bbva.mx/personas/informacion-financiera-al-dia.html
 == Banregio ==
 url final: https://www.banregio.com/divisas.php
 - marco https://www.banregio.com/divisas.php | 4346 letras | Dólar Euro Compra $17.80 Compra $20.20 Venta $19.70 Venta $21.80 * Precios exclusivos Banca Electrónica * Información sujeta a cambio sin previo aviso Convertidor de Moneda Quiero comprar Quiero vende
-- marco https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LedRgkUAAAAAB_x4gjgLGx5CUvkzNUDaoK56qEM&co=aHR0cHM6Ly93d3cuYmFucmVn | 68 letras | Se requiere la verificación de reCAPTCHA.. No soy un robot reCAPTCHA
 - marco about:blank | 0 letras | 
+- marco https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LedRgkUAAAAAB_x4gjgLGx5CUvkzNUDaoK56qEM&co=aHR0cHM6Ly93d3cuYmFucmVn | 68 letras | Se requiere la verificación de reCAPTCHA.. No soy un robot reCAPTCHA
 - marco about:blank | 0 letras | 
 - marco https://service.force.com/embeddedservice/5.0/esw.html?parent=https://www.banregio.com/divisas.php | 0 letras | 
 - marco about:blank | 0 letras | 
-- marco https://www.google.com/recaptcha/api2/bframe?hl=es-419&v=DqDoLJqJmjhqr0vRwNZ2MCHA&k=6LedRgkUAAAAAB_x4gjgLGx5CUvkzNUDaoK5 | 0 letras | 
-- marco about:blank | 0 letras | 
+- marco https://www.google.com/recaptcha/api2/bframe?hl=es-419&v=4i3aN5wAweL7i3ADI7BSX4B-&k=6LedRgkUAAAAAB_x4gjgLGx5CUvkzNUDaoK5 | 0 letras | 
